@@ -1,7 +1,7 @@
 # Python
 All programs done using python
 
-1. Hello World
+1.Hello World
 
 2.Triangle Chopstics
 
