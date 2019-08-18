@@ -12,3 +12,5 @@ All programs done using python
 5.Student Record
 
 6.Leap Year
+
+7.Minmax
