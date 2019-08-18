@@ -14,3 +14,5 @@ All programs done using python
 6.Leap Year
 
 7.Minmax
+
+8.Askey
