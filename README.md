@@ -16,3 +16,7 @@ All programs done using python
 7.Minmax
 
 8.Askey
+
+9.PassOrFail
+
+10.Matrix
