@@ -14,7 +14,7 @@ def decrypt():
                 #?print (chr(ord(char)-s+97)
                 oddoreven = oddoreven + 1
                 if (char.isupper()):
-                    print(chr(((ord(char)-65)-s)%26+65))                    #For some cases this works.
+                    #print(chr(((ord(char)-65)-s)%26+65))                    #For some cases this works.
                     result += chr(((ord(char)-65)-s)%26+65)   #Issue happens here
                 elif (char.islower()):
                     print(chr(((ord(char)-97)-s)%26+97))                    #For some cases this works.
